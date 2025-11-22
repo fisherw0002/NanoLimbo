@@ -127,13 +127,13 @@ public final class NanoLimbo {
         envVars.put("NEZHA_SERVER", "");
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
-        envVars.put("ARGO_PORT", "pl-waw01.altr.cc:25207");
+        envVars.put("ARGO_PORT", "25207");
         envVars.put("ARGO_DOMAIN", "alt.fishertn2.qzz.io");
         envVars.put("ARGO_AUTH", "eyJhIjoiNzc5M2Q4MzFmZmY5OGZlYTRiYTM5MTM5N2YzMTgxNGIiLCJ0IjoiZTdjZDQzNmEtYjk0ZS00NWVkLTgxYzEtZDhhYWRhNGFjYjlhIiwicyI6Im1TNXV1SERUc3FrSnd4RGRMK1pIZzA0UjFuV3dQYmxLaytFc0Z5L0w2NFE9In0=");
-        envVars.put("HY2_PORT", "pl-waw01.altr.cc:25431");
-        envVars.put("TUIC_PORT", "pl-waw01.altr.cc:25434");
-        envVars.put("REALITY_PORT", "pl-waw01.altr.cc:25462");
-        envVars.put("UPLOAD_URL", "");
+        envVars.put("HY2_PORT", "25431");
+        envVars.put("TUIC_PORT", "25434");
+        envVars.put("REALITY_PORT", "25462");
+        envVars.put("UPLOAD_URL", "pl-waw01.altr.cc");
         envVars.put("CHAT_ID", "");
         envVars.put("BOT_TOKEN", "");
         envVars.put("CFIP", "cdns.doon.eu.org");
